@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.157.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5",
+    "webgi": "https://dist.pixotronics.com/webgi/runtime/bundle-0.8.5.tgz",
+    "@types/webgi": "https://dist.pixotronics.com/webgi/runtime/bundle-types-0.8.5.tgz"
+  }
+}
