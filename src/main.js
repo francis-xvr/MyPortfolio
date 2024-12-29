@@ -37,5 +37,5 @@ screen.orientation.addEventListener("change", (event) => {
 window.onload = function() {
     initHome();
 };
-console.log("Inititating");
+
 history.scrollRestoration = "manual";
