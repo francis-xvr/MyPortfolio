@@ -47,7 +47,7 @@ const initHomeMainApp = function(){
         },
         methods:{
             redirectDemo(){
-                window.location.href = 'https://francis-xav1er.github.io/Jewellery/weddingrings.html';
+                window.location.href = 'https://francis-xvr.github.io/Jewellery/weddingrings.html';
             },
             async initWebGI(){
                 app._props.loadPercentage +=5;
@@ -129,7 +129,7 @@ const initHomeMainApp = function(){
         },
         methods:{
             redirectDemo(){
-                window.location.href = 'https://francis-xav1er.github.io/Product_Viewer_Demo/';
+                window.location.href = 'https://francis-xvr.github.io/ShopKart/';
             },
             async initWebGI(){
                 app._props.loadPercentage +=5;
@@ -210,7 +210,7 @@ const initHomeMainApp = function(){
         },
         methods:{
             redirectDemo(){
-                window.location.href = 'https://francis-xav1er.github.io/MyHome_realestate/';
+                window.location.href = 'https://francis-xvr.github.io/MyHome-realestate/';
             },
             async initWebGI(){
                 app._props.loadPercentage +=5;
